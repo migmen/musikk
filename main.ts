@@ -7,10 +7,10 @@ basic.showLeds(`
     `)
 basic.forever(function () {
     if (input.buttonIsPressed(Button.A)) {
-        music.playMelody("F - A D F G E - ", 120)
+        music.playMelody("E A A A E B G - ", 120)
         basic.showLeds(`
-            . . . . .
-            . . . . .
+            . . . . #
+            . . . . #
             . . # # .
             . # . . .
             . . . . .
@@ -22,7 +22,7 @@ basic.forever(function () {
             . . . . .
             . . . . .
             . . # # .
-            . # . . .
+            . # . . #
             . . . . .
             `)
     }

@@ -4,9 +4,9 @@
         . . . # . 
         . # # . . 
         . . . . .
-        `</field></block></statement></block><block type="device_forever" id="Z6ctss^0)9|04=%u2P9x" x="205" y="0"><statement name="HANDLER"><block type="controls_if" id="F[`?FNiN:=q0((^Wx]A."><value name="IF0"><shadow type="logic_boolean" id="H?L;l:Wm8!*j4e}p9wf{"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="?:_/7u3:jio0@d;`ose("><field name="NAME">Button.A</field></block></value><statement name="DO0"><block type="playMelody" id="/Y[@:%bGT{}%JAET22ne"><value name="melody"><shadow type="melody_editor" id="ZFKymMlhk.2Jy~4BT{?P"><field name="melody">"F - A D F G E - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="59C[I@fWXa]7WMNWU}V5"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="device_show_leds" id="qHT`RgnoW_Ujjn`kH)vS"><field name="LEDS">`
-        . . . . . 
-        . . . . . 
+        `</field></block></statement></block><block type="device_forever" id="Z6ctss^0)9|04=%u2P9x" x="205" y="0"><statement name="HANDLER"><block type="controls_if" id="F[`?FNiN:=q0((^Wx]A."><value name="IF0"><shadow type="logic_boolean" id="H?L;l:Wm8!*j4e}p9wf{"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="?:_/7u3:jio0@d;`ose("><field name="NAME">Button.A</field></block></value><statement name="DO0"><block type="playMelody" id="/Y[@:%bGT{}%JAET22ne"><value name="melody"><shadow type="melody_editor" id="ZFKymMlhk.2Jy~4BT{?P"><field name="melody">"E A A A E B G - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="59C[I@fWXa]7WMNWU}V5"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="device_show_leds" id="qHT`RgnoW_Ujjn`kH)vS"><field name="LEDS">`
+        . . . . # 
+        . . . . # 
         . . # # . 
         . # . . . 
         . . . . .
@@ -14,6 +14,6 @@
         . . . . . 
         . . . . . 
         . . # # . 
-        . # . . . 
+        . # . . # 
         . . . . .
         `</field></block></next></block></statement></block></next></block></statement></block></xml>
