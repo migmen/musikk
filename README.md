@@ -1,5 +1,5 @@
 
-> Åpne denne siden på [https://migmen.github.io/kai/](https://migmen.github.io/musikk/)
+> Åpne denne siden på [https://migmen.github.io/musikk/](https://migmen.github.io/musikk/)
 
 ## Bruk som utvidelse
 
