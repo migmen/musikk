@@ -1,5 +1,5 @@
 
-> Åpne denne siden på [https://migmen.github.io/kai/](https://migmen.github.io/kai/)
+> Åpne denne siden på [https://migmen.github.io/kai/](https://migmen.github.io/musikk/)
 
 ## Bruk som utvidelse
 
@@ -8,22 +8,22 @@ Dette kodeområdet kan bli lagt til som en **utvidelse** i MakeCode.
 * åpne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikk på **Nytt prosjekt**
 * klikk på **Utvidelser** i menyen under tannhjulet
-* søk etter **https://github.com/migmen/kai** og importér
+* søk etter **https://github.com/migmen/musikk** og importér
 
-## Rediger dette prosjektet ![Bygg statusmerke](https://github.com/migmen/kai/workflows/MakeCode/badge.svg)
+## Rediger dette prosjektet ![Bygg statusmerke](https://github.com/migmen/musikk/workflows/MakeCode/badge.svg)
 
 For å redigere dette kodeområdet i MakeCode.
 
 * åpne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikk på **Importer** og så på **Importér URL**
-* lim inn **https://github.com/migmen/kai** og klikk på importér
+* lim inn **https://github.com/migmen/musikk** og klikk på importér
 
 ## Forhåndsvisning av blokker
 
 Dette bildet viser blokk-koden fra den siste oppdateringen i hovedgrenen.
 Dette bildet kan ta noen minutter å oppdatere.
 
-![En opptegnet visning av blokkene](https://github.com/migmen/kai/raw/master/.github/makecode/blocks.png)
+![En opptegnet visning av blokkene](https://github.com/migmen/musikk/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (brukes for søk, visualisering)
 
